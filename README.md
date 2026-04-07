@@ -17,9 +17,9 @@ wiki/
 
 ## 📚 Documentation Sections
 
-- [Cloud Frontend](./cloud-frontend)
-- [Cloud Chatbot](./cloud-chatbot)
-- [Cloud Help Documentation](./cloud-help-documentation)
+- [Cloud Frontend](./wiki/cloud-frontend)
+- [Cloud Chatbot](./wiki/cloud-chatbot)
+- [Cloud Help Documentation](./wiki/cloud-help-documentation)
 
 ---
 
